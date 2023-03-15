@@ -1,2 +1,2 @@
-# MSDS
-Master's in Data Science files
+# Northwestern MSDS
+Master's in Data Science at Northwestern University files
